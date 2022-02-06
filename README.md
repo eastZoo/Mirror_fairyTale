@@ -44,3 +44,9 @@
 ---
 
 ## 3. Deepfake project 결과
+<img src="https://user-images.githubusercontent.com/67012957/152679653-8ea84c0d-7c45-4795-9d76-97bea98e786a.png" width="700" height="370">
+
+
+![noname02](https://user-images.githubusercontent.com/67012957/152679660-6dfab81e-f2d3-4a54-83b6-f30af1064ed1.png)
+
+![noname03](https://user-images.githubusercontent.com/67012957/152679669-d3f16306-e34c-4ec6-bddd-2be0af3b254c.png)
