@@ -2,10 +2,10 @@
 
 ## 1. Deepfake project 소개
 거울동화 프로젝트는 실제 얼굴 사진을 동화 캐릭터 애니메이션에 삽입하여 아이들의 정서적, 교육적 목적을 위해 진행되고 있는 프로젝트이다. 해당 프로젝트는 Deepfake 기술을 사용하기 위해 Faceswap, DeepfaceLab 라이브러리를 활용하여 실제 얼굴 이미지를 다양한 방식을 통해서 애니메이션 영상에 접목시키기 위한 연구를 진행 중이다.
-
-![20220124_112627](https://user-images.githubusercontent.com/67012957/152676877-056e8057-9165-4782-948a-267ea460d6b8.png)
-![20220124_112613](https://user-images.githubusercontent.com/67012957/152676861-992c2e04-0226-4c1c-bac1-8369801a725b.png)
-
+<div>
+  <img src="https://user-images.githubusercontent.com/67012957/152676877-056e8057-9165-4782-948a-267ea460d6b8.png" width="500" height="260">
+  <img src="https://user-images.githubusercontent.com/67012957/152676861-992c2e04-0226-4c1c-bac1-8369801a725b.png" width="500" height="260">
+</div
 ---
 
 ## 2. Deepfake project 연구 내용
