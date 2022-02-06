@@ -14,8 +14,8 @@
 ### 2.1. TEST 1 - 실제 인물 사진 + 애니메이션 결합
 실제 인물 사진을 여러 방향으로 촬영하여 영상으로 변환 후 학습 진행
 
-![학습사진](https://user-images.githubusercontent.com/67012957/152676907-792253ca-2964-4504-8386-a8c3133e5db6.PNG)
-![20220124_1129220](https://user-images.githubusercontent.com/67012957/152676898-6d5704d9-4d45-410a-bf3a-7ce49cb61807.png)
+<img src="https://user-images.githubusercontent.com/67012957/152679653-8ea84c0d-7c45-4795-9d76-97bea98e786a.png">
+![test1](https://user-images.githubusercontent.com/67012957/152681285-16abf978-c7af-4d5d-a188-236fa1a2c2c1.gif)
 
 **- 학습 결과 : 애니메이션 영상에 실제 인물 사진을 직접 학습하다 보니 눈 크기, 스타일, 질감 등등 어색한 부분이 많이 발생하였다.**
 
@@ -25,7 +25,8 @@
 실제 인물 사진을 TOONME라는 사진 캐릭터 변환 프로그램을 사용하여 캐릭터화한 뒤,    
 캐릭터화한 사진들을 이어붙여 영상으로 변환 후 학습 진행
 
-![학습사진2](https://user-images.githubusercontent.com/67012957/152676916-651c9ee9-9e0d-4747-9508-08a1b65b8a55.PNG)
+![noname02](https://user-images.githubusercontent.com/67012957/152679660-6dfab81e-f2d3-4a54-83b6-f30af1064ed1.png)
+![test2](https://user-images.githubusercontent.com/67012957/152681304-9c8bb6ee-4379-473a-8ee3-4d57c096cae2.gif)
 
 **- 학습 결과 : TEST 1 결과보다는 훨씬 영상미가 자연스러워졌지만,    
 캐릭터가 대사를 읽을 때 입이 벌어지지 않는 등의 섬세한 작업 오류 문제 발생**
@@ -35,8 +36,8 @@
 ### 2.3. TEST 3 - 캐릭터화 영상 필터 + 애니메이션 결합
 실제 인물 사진을 스노우 어플의 캐릭터화 영상 필터를 사용하여 영상으로 변환 후 학습 진행
 
-![dongha_fin](https://user-images.githubusercontent.com/67012957/152676609-6d6ced1e-64ee-4f7e-b5a5-fb47385c2f29.png)
-![20220124_1125219](https://user-images.githubusercontent.com/67012957/152676891-14164e98-fc00-4062-9a04-cdc1a2b8dbf6.png)
+![noname03](https://user-images.githubusercontent.com/67012957/152679669-d3f16306-e34c-4ec6-bddd-2be0af3b254c.png)
+![test3](https://user-images.githubusercontent.com/67012957/152681319-7e28cb2c-7963-4936-a2b3-7a910545008a.gif)
 
 **- 학습 결과 : TEST 1,2 결과보다 훨씬 영상미가 자연스러워지고, 캐릭터 대사 시 입이 함께 벌어짐과 함께 섬세한 영상 제작 완성!    
 그러나, TEST 1,2 보다 더 오랜기간 학습을 하였지만 데이터가 다소 깨지는 현상 발생**
@@ -44,16 +45,10 @@
 ---
 
 ## 3. Deepfake project 결과
-<img src="https://user-images.githubusercontent.com/67012957/152679653-8ea84c0d-7c45-4795-9d76-97bea98e786a.png">
 
 
-![noname02](https://user-images.githubusercontent.com/67012957/152679660-6dfab81e-f2d3-4a54-83b6-f30af1064ed1.png)
 
-![noname03](https://user-images.githubusercontent.com/67012957/152679669-d3f16306-e34c-4ec6-bddd-2be0af3b254c.png)
 
-![test1](https://user-images.githubusercontent.com/67012957/152681285-16abf978-c7af-4d5d-a188-236fa1a2c2c1.gif)
 
-![test2](https://user-images.githubusercontent.com/67012957/152681304-9c8bb6ee-4379-473a-8ee3-4d57c096cae2.gif)
 
-![test3](https://user-images.githubusercontent.com/67012957/152681319-7e28cb2c-7963-4936-a2b3-7a910545008a.gif)
 
